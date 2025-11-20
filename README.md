@@ -1,2 +1,2 @@
-# DFT_notes
-Lecture Notes of the Density Functional Course at Yachay Tech
+# Density Functional Theory Course
+Lecture and notebooks of Density Functional Course at Yachay Tech
